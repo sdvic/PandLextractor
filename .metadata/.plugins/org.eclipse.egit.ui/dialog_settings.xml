@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="/Users/VicMini/git/AsteroidsAttempt3/.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git://github.com/jointheleague/CleverRPiRobot.git"/>
+		<item value="https://github.com/sdvic/VicRoombaPi.git"/>
+		<item value="git://github.com/sdvic/VicRoombaPi.git"/>
+		<item value="git://github.com/DavidAndBlake/AsteroidsAttempt3.git"/>
+		<item value="git://github.com/DavidAndBlake/AsteroidsAttempt3a.git"/>
+		<item value="git://github.com/jointheleague/RPiGreenbot/tree/master/src/org/jointheleague/ecolban/rpirobot.git"/>
+		<item value="git://github.com/DavidAndBlake/AsteroidsAttempt3"/>
+		<item value="file:////Users/VicMini/git/AsteroidsAttempt3"/>
+		<item value="http://github.com/sdvic/AsteroidsAttempt3.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="650" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="697" key="DIALOG_X_ORIGIN"/>
+		<item value="466" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/VicMini/git/AndroidsAttempt3/.git">
+			<item value="false"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="Fixed Utilities move by Vic"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="847e736a3b86934f11b09ee4e954b2540e168cee"/>
+		</list>
+		<list key="/Users/VicMini/git/.git">
+			<item value="false"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="Compute number of sensors/emitters"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+		</list>
+		<list key="/Users/VicMini/git/VicRoombaPi/.git">
+			<item value="false"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0D;running OK"/>
+			<item value="sdvic &lt;gvw@san.rr.com&gt;"/>
+			<item value="c0245e9b8bcb6a475319b604da29a6f3903a0ef5"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

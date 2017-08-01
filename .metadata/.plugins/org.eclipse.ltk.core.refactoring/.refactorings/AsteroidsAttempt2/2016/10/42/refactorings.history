@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Utilities.checkOffScreen(...)&apos; to &apos;isOffScreen&apos;&#x0A;- Original project: &apos;AsteroidsAttempt2&apos;&#x0A;- Original element: &apos;Utilities.checkOffScreen(...)&apos;&#x0A;- Renamed element: &apos;Utilities.isOffScreen(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;checkOffScreen&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Utilities.java[Utilities~checkOffScreen~I~I~I~I" name="isOffScreen" references="true" stamp="1476412928719" version="1.0"/>
+</session>

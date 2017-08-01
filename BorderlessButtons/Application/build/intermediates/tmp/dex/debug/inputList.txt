@@ -1,0 +1,7 @@
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/classes/debug
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f961cf044e8555596d0a14ffd61dc8a0bd21d105.jar
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-8ae17012995a60fa21994f42b6645b47ad845db1.jar
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-f692752f14af96fbc3d67c66cc0cd09a1c51ef37.jar
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-23c66a3ddbc795eab3bac98da627badfbf42a0ba.jar
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-01a89a3672907ce5887371333b409246674e31dc.jar
+/Users/VicMini/git/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-9706d065bbfb9db49fbab5072a0ae56f61769313.jar

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;org.jointheleague.ecolban.cleverrobot&apos; to &apos;RPiGreenbot/src&apos;&#x0A;- Original project: &apos;CleverRPiRobot&apos;&#x0A;- Destination element: &apos;RPiGreenbot/src&apos;&#x0A;- Original element: &apos;CleverRPiRobot/src/org.jointheleague.ecolban.cleverrobot&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=RPiGreenbot/src" element1="/src&lt;org.jointheleague.ecolban.cleverrobot" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1483993237895" version="1.0"/>
+</session>

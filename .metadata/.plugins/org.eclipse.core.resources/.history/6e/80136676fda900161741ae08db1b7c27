@@ -1,0 +1,9 @@
+
+public class BankA {
+	public int customer1Balance =500;
+	public int customer1Password = 4000;
+	public int customer2Balance;
+	public int customer2Password;
+	public int customer3Balance;
+	public int customer3Password;
+}

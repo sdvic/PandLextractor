@@ -1,0 +1,15 @@
+
+public class Hacker {
+
+	public BankA bankA = new BankA();
+	public BankB bankB = new BankB();
+	public BankC bankC = new BankC();
+	
+	public static void main(String[] args) {
+		new Hacker().getGoing();
+	}
+
+	private void getGoing() {
+		System.out.println("Customer 1 at Bank A has $" + bankA.customer1Balance + " in their account before I got there");
+	}
+}

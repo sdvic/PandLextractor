@@ -1,0 +1,23 @@
+
+public class Hacker {
+
+	public BankA bankA = new BankA();
+	public BankB bankB = new BankB();
+	public BankC bankC = new BankC();
+	
+	public static void main(String[] args) {
+		new Hacker().getGoing();
+	}
+
+	private void getGoing() {
+		int hackerBankAccount = 0;
+		System.out.println("Customer 1 at Bank A had $" + bankA.customer1Balance + " in their account before I got there");
+		hackerBankAccount = bankA.customer1Balance - 1;
+		bankA.customer1Balance = 1;
+		System.out.println("Customer 1 at Bank A now has $" + bankA.customer1Balance + " in their account, and my account now has $" + hackerBankAccount + " in it.");
+		System.out.println("Customer 2 at Bank A had $" + bankA.customer2Balance + " in their account before I got there");
+		hackerBankAccount = bankA.customer2Balance - 1;
+		bankA.customer2Balance = 1;
+		System.out.println("Customer 2 at Bank A now has $" + bankA.customer2Balance + " in their account, and my account now has $" + hackerBankAccount + " in it.");
+	}
+}
