@@ -64,6 +64,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/thomas" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
