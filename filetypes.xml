@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Main" type="CLASS" />
+      <mapping pattern="main" type="JAVA" />
       <mapping pattern="FrameStudy" type="PLAIN_TEXT" />
       <mapping pattern="Laser" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
