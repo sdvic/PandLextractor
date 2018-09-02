@@ -7,8 +7,8 @@ import java.awt.event.KeyListener;
 import java.awt.geom.RoundRectangle2D;
 
 /***********************************************************************************************
- * David Frieder's Saurian flash cards Copyright 2018 David Frieder 8/28/2018
- * rev 1.2 displays alphabets vertically to make it easier to tell which letter corresponds to which.
+ * David Frieder's Saurian flash cards Copyright 2018 David Frieder 9/1/2018
+ * rev 1.3 displays instructions in blue for testing
  ***********************************************************************************************/
 public class Main extends JComponent implements KeyListener
 {
