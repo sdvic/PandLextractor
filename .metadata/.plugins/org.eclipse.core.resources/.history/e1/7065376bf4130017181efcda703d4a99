@@ -1,0 +1,49 @@
+package pulsePi;
+
+import com.pi4j.io.gpio.GpioController;
+import com.pi4j.io.gpio.GpioFactory;
+import com.pi4j.io.gpio.GpioPinDigitalOutput;
+import com.pi4j.io.gpio.GpioPinInput;
+import com.pi4j.io.gpio.PinState;
+import com.pi4j.io.gpio.RaspiPin;
+import com.pi4j.io.gpio.event.GpioPinDigitalStateChangeEvent;
+import com.pi4j.io.gpio.event.GpioPinListenerDigital;
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+	new Main().getGoing();
+    }
+
+    final void getGoing()
+    {
+	final GpioController gpio = GpioFactory.getInstance();
+	final GpioPinDigitalOutput rightStrobe = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_02);// Strobe...pin
+												  // 13...right
+	final GpioPinInput rightEcho = gpio.provisionDigitalInputPin(RaspiPin.GPIO_05); // Echo...pin
+											// 18...right
+	final GpioPinDigitalOutput leftStrobe = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_01);// Strobe...pin
+												 // 12...left
+	final GpioPinInput leftEcho = gpio.provisionDigitalInputPin(RaspiPin.GPIO_04); // Echo...pin
+										       // 16...left
+	final GpioPinDigitalOutput centerStrobe = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_00);// Strobe...pin
+												   // 11...center
+	final GpioPinInput centerEcho = gpio.provisionDigitalInputPin(RaspiPin.GPIO_03); // Echo...pin
+											 // 15...center
+	while (true)
+	{
+	    rightStrobe.low();
+	    rightStrobe.high();
+	    rightStrobe.low(); 
+	    
+//	    leftStrobe.low();
+//	    leftStrobe.high();
+//	    leftStrobe.low();
+//	    
+//	    centerStrobe.low();
+//	    centerStrobe.high();
+//	    centerStrobe.low();
+	}
+    }
+}

@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="java">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/gs-rest-service/complete/src/main/java" />
+        <root url="file://$USER_HOME$/gs-rest-service/complete/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
